@@ -22,3 +22,10 @@ b、follow the picture below to set：
 
 2、method of manual config (you can try this method if you failed to setup use with auto config method)
 
+.. image::  /images/android-7.png
+
+.. image::  /images/android-8.png
+
+.. image::  /images/android-9.png
+
+.. image::  /images/android-6.png
