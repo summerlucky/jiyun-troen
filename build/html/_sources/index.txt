@@ -1,4 +1,4 @@
-tro设置教程
+setting for tro
 ------
 
 .. toctree::
