@@ -1,6 +1,6 @@
 How to config for windows
 ================
-1、software download link：https://wwa.lanzous.com/iNkermcwbre
+1、software download link：https://wwa.lanzous.com/iRnLcmdcg6j
 
 Pls extract all file to one folder ,and open  qv2ray（see the picture below）
 
