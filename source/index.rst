@@ -8,3 +8,4 @@ setting for tro
    ios/index
    android/index
    windows/index
+   mac/index
