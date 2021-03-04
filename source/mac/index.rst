@@ -1,4 +1,5 @@
 How to config on macos
+================
 1、download linke for app: https://wwa.lanzous.com/
 
 2、install app ,then copy app path to /Applications (see picture below)
