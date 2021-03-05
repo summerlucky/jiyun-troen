@@ -1,6 +1,6 @@
 How to config on macos
 ================
-step 1、download link for app: https://wwa.lanzous.com/
+step 1、download link for app: https://wwa.lanzous.com/ivM9Gmhvweb
 
 step 2、install app ,then copy app path to /Applications (see picture below)
 
@@ -15,7 +15,13 @@ step 3、follow the step below  to open app if you fail to open app
 
 step 4、enable v2ray-core
 
-click "Preference",then click "check V2Ray Core Settings"
+click "Preference"->"Kernel Settings ",change default path for "V2Ray Core Executable Path" and "V2Ray Assets Directory"
+
+change path of "V2Ray Core Executable Path" to /Applications/qv2ray.app/Contents/Resources/vcore/v2ray
+
+change path of "V2Ray Assets Directory" to /Applications/qv2ray.app/Contents/Resources/vcore/
+
+then click "check V2Ray Core Settings"
 
 .. image::  /images/mac-6.png
 .. image::  /images/mac-7.png
