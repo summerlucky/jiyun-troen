@@ -17,13 +17,14 @@ step 4、enable v2ray-core
 
 click "Preference"->"Kernel Settings ",change default path for "V2Ray Core Executable Path" and "V2Ray Assets Directory"
 
+.. image::  /images/mac-6.png
+
 change path of "V2Ray Core Executable Path" to /Applications/qv2ray.app/Contents/Resources/vcore/v2ray
 
 change path of "V2Ray Assets Directory" to /Applications/qv2ray.app/Contents/Resources/vcore/
 
 then click "check V2Ray Core Settings"
 
-.. image::  /images/mac-6.png
 .. image::  /images/mac-7.png
 
 follow step3 to enable v2ray-core again
