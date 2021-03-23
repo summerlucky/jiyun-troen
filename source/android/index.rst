@@ -3,6 +3,7 @@ How to config for android
 a、download app
 
 online install link：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2NG.apk
+
 online install link2(bakeup): https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2NG.apk
 
 b、follow the picture below to set：
