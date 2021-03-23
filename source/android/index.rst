@@ -11,15 +11,11 @@ b、follow the picture below to set：
 1、method of auto config (recommend)
 
 .. image::  /images/android-1.png
-
 .. image::  /images/android-2.png
-
 .. image::  /images/android-3.png
 
 .. image::  /images/android-4.png
-
 .. image::  /images/android-5.png
-
 .. image::  /images/android-6.png
 
 2、method of manual config (you can try this method if you failed to setup use with auto config method)
