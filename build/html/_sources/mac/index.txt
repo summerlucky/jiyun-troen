@@ -1,6 +1,6 @@
 How to config on macos
 ================
-step 1、download link for app: https://wwa.lanzous.com/ivM9Gmhvweb
+step 1、download link for app: https://wwa.lanzous.com/iter0npp31c
 
 step 2、install app ,then copy app path to /Applications (see picture below)
 
