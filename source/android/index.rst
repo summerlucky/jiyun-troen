@@ -2,7 +2,7 @@ How to config for android
 ===============
 a、download app
 
-online install link：https://wwa.lanzous.com/il5ZSmud89c
+online install link：https://wwa.lanzoux.com/il5ZSmud89c
 
 online install link2(bakeup): https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2NG.apk
 
